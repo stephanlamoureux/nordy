@@ -4,7 +4,7 @@
 
 ## [GNOME terminal color theme](https://github.com/nordtheme/gnome-terminal)
 
-## [Nord inspired wallpapers](/wallpaper)
+## [Wallpapers](/wallpaper)
 
 ## [Slack color values](https://www.nordtheme.com/docs/ports/slack/installation)
 
