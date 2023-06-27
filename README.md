@@ -14,4 +14,6 @@
 
 ## VS Code
 
-## PyCharm
+## Typora
+
+## Windows Terminal
