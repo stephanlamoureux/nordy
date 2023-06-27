@@ -8,6 +8,8 @@
 
 ## [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 
+## KDE
+
 ## Firefox
 
 ## Chrome
