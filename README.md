@@ -9,6 +9,8 @@
 
 ## [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 
+## [OhMyZsh](https://github.com/fxbrit/nord-extended)
+
 ## KDE
 
 ## Firefox
