@@ -2,11 +2,11 @@
 
 ## [Tela Nord Icons](https://www.gnome-look.org/p/1279924/)
 
-## [GNOME terminal color theme](https://github.com/nordtheme/gnome-terminal)
+## [GNOME Terminal](https://github.com/nordtheme/gnome-terminal)
 
 ## [Wallpapers](/wallpaper)
 
-## [Slack color values](https://www.nordtheme.com/docs/ports/slack/installation)
+## [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 
 ## Firefox
 
