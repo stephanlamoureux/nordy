@@ -16,4 +16,6 @@
 
 ## Typora
 
+## Konsole
+
 ## Windows Terminal
