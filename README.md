@@ -1,7 +1,7 @@
 ## [GTK Theme](https://www.gnome-look.org/p/1267246/)
 
 ## Icons
-- ### [Tela Nord Icons](https://www.gnome-look.org/p/1279924/)
+- [Tela Nord Icons](https://www.gnome-look.org/p/1279924/)
 
 ## [GNOME Terminal](https://github.com/nordtheme/gnome-terminal)
 
