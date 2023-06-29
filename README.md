@@ -1,6 +1,6 @@
 # A collection of my favorite [Nord](https://www.nordtheme.com/) themes.
 
-- [Wallpapers](/wallpaper)
+## [Wallpapers](/wallpaper)
   - Misc
   - Windows
   - Linux
