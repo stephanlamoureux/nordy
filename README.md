@@ -1,4 +1,4 @@
-A collection of my favorite [Nord](https://www.nordtheme.com/) themes.
+## A collection of my favorite [Nord](https://www.nordtheme.com/) themes.
 
 - [Wallpapers](/wallpaper)
   - Misc
