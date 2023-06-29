@@ -10,6 +10,7 @@
 - [Chrome](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
 - [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 - [OhMyZsh](https://github.com/fxbrit/nord-extended)
+- [Telegram](https://t.me/addtheme/GFxDRljkIFkj2cCB)
 - VS Code
 - Typora
 - PyCharm
