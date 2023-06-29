@@ -34,3 +34,6 @@
 - [Konsole](https://github.com/nordtheme/konsole)
 - Icons
   - [Tela Nord Icons](https://www.gnome-look.org/p/1279924/)
+  - [Nordzy](https://github.com/alvatip/Nordzy-icon)
+  - [Zafiro Nord](https://www.gnome-look.org/p/1891042)
+  - 
