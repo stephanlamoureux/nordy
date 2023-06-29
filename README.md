@@ -26,6 +26,7 @@
 - IntelliJ IDEA
 - Windows Terminal
 - Android Studio
+- [BetterDiscord](https://betterdiscord.app/theme/Nordic)
   
 ## Linux
 - [GTK Theme](https://www.gnome-look.org/p/1267246/)
