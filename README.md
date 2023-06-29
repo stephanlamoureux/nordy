@@ -7,6 +7,10 @@
 
 ## Apps
 - Firefox
+  - [Nord by Luca Sander](https://addons.mozilla.org/en-US/firefox/addon/nord123/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+  - [Polar Night](https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+  - [Nord by dragonejt](https://addons.mozilla.org/en-US/firefox/addon/nord-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+  - [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [Chrome](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
 - [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 - [OhMyZsh](https://github.com/fxbrit/nord-extended)
