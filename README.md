@@ -22,10 +22,8 @@
   - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
   - [Nord Wave](https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave)
 - [Typora](https://github.com/ChristosBouronikos/typora-nord-theme/)
-- PyCharm
-- IntelliJ IDEA
+- [JetBrains IntelliJ](https://plugins.jetbrains.com/plugin/10321-nord)
 - [Windows Terminal](https://github.com/thismat/nord-windows-terminal)
-- Android Studio
 - [BetterDiscord](https://betterdiscord.app/theme/Nordic)
   
 ## Linux
