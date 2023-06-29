@@ -21,17 +21,18 @@
   - [Nord Deep](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
   - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
   - [Nord Wave](https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave)
-- Typora
+- [Typora](https://github.com/ChristosBouronikos/typora-nord-theme/)
 - PyCharm
 - IntelliJ IDEA
-- Windows Terminal
+- [Windows Terminal](https://github.com/thismat/nord-windows-terminal)
 - Android Studio
 - [BetterDiscord](https://betterdiscord.app/theme/Nordic)
   
 ## Linux
 - [GTK Theme](https://www.gnome-look.org/p/1267246/)
 - [GNOME Terminal](https://github.com/nordtheme/gnome-terminal)
-- KDE
-- Konsole
+- [KDE]([https://github.com/EliverLara/Nordic](https://www.pling.com/p/1326896/))
+  - [Kvantum](https://store.kde.org/p/1326272/)
+- [Konsole](https://github.com/nordtheme/konsole)
 - Icons
   - [Tela Nord Icons](https://www.gnome-look.org/p/1279924/)
