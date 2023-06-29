@@ -16,6 +16,9 @@
 - [OhMyZsh](https://github.com/fxbrit/nord-extended)
 - [Telegram](https://t.me/addtheme/GFxDRljkIFkj2cCB)
 - VS Code
+  - [Nord Deep](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
+  - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+  - [Nord Wave](https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave)
 - Typora
 - PyCharm
 - IntelliJ IDEA
