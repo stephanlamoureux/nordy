@@ -1,23 +1,23 @@
-## [Wallpapers](/wallpaper)
+- [Wallpapers](/wallpaper)
 
-## [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
+- [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 
-## [OhMyZsh](https://github.com/fxbrit/nord-extended)
+- [OhMyZsh](https://github.com/fxbrit/nord-extended)
 
-## Firefox
+- Firefox
 
-## [Chrome](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
+- [Chrome](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
 
-## VS Code
+- VS Code
 
-## Typora
+- Typora
 
-## Windows Terminal
+- Windows Terminal
 
 ## Linux
 - [GTK Theme](https://www.gnome-look.org/p/1267246/)
 - [GNOME Terminal](https://github.com/nordtheme/gnome-terminal)
 - KDE
 - Konsole
-- ### Icons
+- Icons
   - [Tela Nord Icons](https://www.gnome-look.org/p/1279924/)
