@@ -11,7 +11,9 @@
   - [Polar Night](https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   - [Nord by dragonejt](https://addons.mozilla.org/en-US/firefox/addon/nord-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   - [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [Chrome](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
+- Chrome
+  - [Nord by George Martinec](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
+  - [Nord by kevinwochan](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj)
 - [Slack](https://www.nordtheme.com/docs/ports/slack/installation)
 - [OhMyZsh](https://github.com/fxbrit/nord-extended)
 - [Telegram](https://t.me/addtheme/GFxDRljkIFkj2cCB)
