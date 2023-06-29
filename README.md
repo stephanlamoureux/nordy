@@ -1,9 +1,9 @@
 # A collection of my favorite [Nord](https://www.nordtheme.com/) themes.
 
-## [Wallpapers](/wallpaper)
-  - Misc
-  - Windows
-  - Linux
+## Wallpapers
+  - [Misc](/wallpaper/misc)
+  - [Windows](/wallpaper/windows)
+  - [Linux](/wallpaper/linux)
 
 ## Apps
 - Firefox
