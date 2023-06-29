@@ -15,7 +15,7 @@
 
 ## Firefox
 
-## Chrome
+## [Chrome](https://chrome.google.com/webstore/detail/google-chrome-nord-theme/honjmojpikfebagfakclmgbcchedenbo?hl=en)
 
 ## VS Code
 
