@@ -25,6 +25,7 @@
 - [JetBrains IntelliJ](https://plugins.jetbrains.com/plugin/10321-nord)
 - [Windows Terminal](https://github.com/thismat/nord-windows-terminal)
 - [BetterDiscord](https://betterdiscord.app/theme/Nordic)
+- [Mailspring](https://github.com/faraadi/mailspring-nord-theme)
   
 ## Linux
 - [GTK Theme](https://www.gnome-look.org/p/1267246/)
